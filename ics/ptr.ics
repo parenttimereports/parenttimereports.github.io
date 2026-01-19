@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
-X-FILE-UPDATED:2026-01-19T10:39:22.495649
+X-FILE-UPDATED:2026-01-19T10:50:25.266673
 X-WR-CALNAME:Parent Holidays
 VERSION:2.0
 PRODID:-//ParentTimeReports//Demo Calendar//EN
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290617
-DESCRIPTION:Fathers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
-SUMMARY:Fathers Day 2029: Father
+DESCRIPTION:Father's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
+SUMMARY:Father's Day 2029: Father
 UID:fathers_day_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -17,20 +17,20 @@ UID:labor_day_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300512
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2030: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2030: Mother
 UID:mothers_day_2030@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291224
-DESCRIPTION:Christmas Second Half Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
-SUMMARY:Christmas Second Half 2029: Mother
+DESCRIPTION:Christma's Second Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
+SUMMARY:Christma's Second 2029: Mother
 UID:christmas_second_half_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301224
-DESCRIPTION:Christmas First Half Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
-SUMMARY:Christmas First Half 2030: Mother
+DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
+SUMMARY:Christma's First 2030: Mother
 UID:christmas_first_half_2030@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ UID:memorial_day_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280618
-DESCRIPTION:Fathers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
-SUMMARY:Fathers Day 2028: Father
+DESCRIPTION:Father's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
+SUMMARY:Father's Day 2028: Father
 UID:fathers_day_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -83,8 +83,8 @@ UID:thanksgiving_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281224
-DESCRIPTION:Christmas Second Half Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
-SUMMARY:Christmas Second Half 2028: Father
+DESCRIPTION:Christma's Second Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
+SUMMARY:Christma's Second 2028: Father
 UID:christmas_second_half_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -95,8 +95,8 @@ UID:spring_break_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291224
-DESCRIPTION:Christmas First Half Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
-SUMMARY:Christmas First Half 2029: Father
+DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
+SUMMARY:Christma's First 2029: Father
 UID:christmas_first_half_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ UID:foruth_of_july_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290513
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2029: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2029: Mother
 UID:mothers_day_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -131,14 +131,14 @@ UID:labor_day_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270620
-DESCRIPTION:Fathers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
-SUMMARY:Fathers Day 2027: Father
+DESCRIPTION:Father's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
+SUMMARY:Father's Day 2027: Father
 UID:fathers_day_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271224
-DESCRIPTION:Christmas Second Half Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
-SUMMARY:Christmas Second Half 2027: Mother
+DESCRIPTION:Christma's Second Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
+SUMMARY:Christma's Second 2027: Mother
 UID:christmas_second_half_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ UID:spring_break_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281224
-DESCRIPTION:Christmas First Half Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
-SUMMARY:Christmas First Half 2028: Mother
+DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
+SUMMARY:Christma's First 2028: Mother
 UID:christmas_first_half_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -167,8 +167,8 @@ UID:foruth_of_july_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280514
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2028: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2028: Mother
 UID:mothers_day_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -185,14 +185,14 @@ UID:labor_day_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Fathers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
-SUMMARY:Fathers Day 2026: Father
+DESCRIPTION:Father's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
+SUMMARY:Father's Day 2026: Father
 UID:fathers_day_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
-DESCRIPTION:Christmas Second Half Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
-SUMMARY:Christmas Second Half 2026: Father
+DESCRIPTION:Christma's Second Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
+SUMMARY:Christma's Second 2026: Father
 UID:christmas_second_half_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +203,8 @@ UID:labor_day_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20310615
-DESCRIPTION:Fathers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
-SUMMARY:Fathers Day 2031: Father
+DESCRIPTION:Father's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
+SUMMARY:Father's Day 2031: Father
 UID:fathers_day_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -215,8 +215,8 @@ UID:spring_break_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271224
-DESCRIPTION:Christmas First Half Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
-SUMMARY:Christmas First Half 2027: Father
+DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
+SUMMARY:Christma's First 2027: Father
 UID:christmas_first_half_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -227,8 +227,8 @@ UID:birthday_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20311224
-DESCRIPTION:Christmas Second Half Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
-SUMMARY:Christmas Second Half 2031: Mother
+DESCRIPTION:Christma's Second Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
+SUMMARY:Christma's Second 2031: Mother
 UID:christmas_second_half_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -251,8 +251,8 @@ UID:thanksgiving_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270509
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2027: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2027: Mother
 UID:mothers_day_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -263,14 +263,14 @@ UID:foruth_of_july_2030@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20320509
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2032: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2032: Mother
 UID:mothers_day_2032@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300616
-DESCRIPTION:Fathers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
-SUMMARY:Fathers Day 2030: Father
+DESCRIPTION:Father's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Father / Even Years Father
+SUMMARY:Father's Day 2030: Father
 UID:fathers_day_2030@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -287,8 +287,8 @@ UID:spring_break_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
-DESCRIPTION:Christmas First Half Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
-SUMMARY:Christmas First Half 2026: Mother
+DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
+SUMMARY:Christma's First 2026: Mother
 UID:christmas_first_half_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -299,8 +299,8 @@ UID:birthday_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301224
-DESCRIPTION:Christmas Second Half Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
-SUMMARY:Christmas Second Half 2030: Father
+DESCRIPTION:Christma's Second Rule: Beginning at 9:00 pm on Christmas Eve and concludes at 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years Father
+SUMMARY:Christma's Second 2030: Father
 UID:christmas_second_half_2030@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -317,8 +317,8 @@ UID:memorial_day_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20311224
-DESCRIPTION:Christmas First Half Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
-SUMMARY:Christmas First Half 2031: Father
+DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years Mother
+SUMMARY:Christma's First 2031: Father
 UID:christmas_first_half_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -329,8 +329,8 @@ UID:thanksgiving_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2026: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2026: Mother
 UID:mothers_day_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -341,8 +341,8 @@ UID:freedom_day@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20310511
-DESCRIPTION:Mothers Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
-SUMMARY:Mothers Day 2031: Mother
+DESCRIPTION:Mother's Day Rule: Saturday at 5:00 pm until Sunday at 5:00 pm\n\nOdd Years: Mother / Even Years Mother
+SUMMARY:Mother's Day 2031: Mother
 UID:mothers_day_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
