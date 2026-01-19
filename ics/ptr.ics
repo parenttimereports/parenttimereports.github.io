@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-X-FILE-UPDATED:2026-01-19T10:54:02.317567
+X-FILE-UPDATED:2026-01-19T11:18:41.589703
 X-WR-CALNAME:Parent Holidays
 VERSION:2.0
 PRODID:-//ParentTimeReports//Demo Calendar//EN
@@ -94,6 +94,12 @@ SUMMARY:Spring Break 2029: Mother
 UID:spring_break_2029@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290401
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2029: Mother
+UID:easter_2029@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291224
 DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years: Mother
 SUMMARY:Christma's First 2029: Father
@@ -146,6 +152,12 @@ DTSTART;VALUE=DATE:20280401
 DESCRIPTION:Spring Break Rule: 6:00 pm the day school releases until 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years: Father
 SUMMARY:Spring Break 2028: Father
 UID:spring_break_2028@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280416
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2028: Father
+UID:easter_2028@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281224
@@ -214,6 +226,12 @@ SUMMARY:Spring Break 2027: Mother
 UID:spring_break_2027@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270328
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2027: Mother
+UID:easter_2027@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271224
 DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years: Mother
 SUMMARY:Christma's First 2027: Father
@@ -224,6 +242,12 @@ DTSTART;VALUE=DATE:20280516
 DESCRIPTION:Birthday Rule: 9:00 am until 9:00 pm on non-school days\; and 4:30 pm to 8:30 pm on school day\n            (Unless it conflicts with any other parenting time spelled out in the policy.\n            In that case\, the parenting time defined within this policy shall take precedence\n\nOdd Years: Father / Even Years: Mother
 SUMMARY:Birthday 2028: Mother
 UID:birthday_2028@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300421
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2030: Father
+UID:easter_2030@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20311224
@@ -242,6 +266,12 @@ DTSTART;VALUE=DATE:20290528
 DESCRIPTION:Memorial Day Rule: 6:00 pm Friday until 6:00 pm Memorial Day\n\nOdd Years: Father / Even Years: Mother
 SUMMARY:Memorial Day 2029: Father
 UID:memorial_day_2029@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320328
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2032: Father
+UID:easter_2032@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291122
@@ -286,6 +316,12 @@ SUMMARY:Spring Break 2026: Father
 UID:spring_break_2026@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2026: Father
+UID:easter_2026@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
 DESCRIPTION:Christma's First Rule: Beginning at 6:00pm on the last day of school before break until Christmas Eve at 9:00 pm\n\nOdd Years: Father / Even Years: Mother
 SUMMARY:Christma's First 2026: Mother
@@ -308,6 +344,12 @@ DTSTART;VALUE=DATE:20310401
 DESCRIPTION:Spring Break Rule: 6:00 pm the day school releases until 6:00 pm the day before school resumes\n\nOdd Years: Mother / Even Years: Father
 SUMMARY:Spring Break 2031: Mother
 UID:spring_break_2031@parenttimereports.github.io
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310413
+DESCRIPTION:5:00 pm Saturday until 5 pm Easter Sunday ** if not part of Spring Break\n\nOdd Years: Mother / Even Years: Father
+SUMMARY:Easter 2031: Mother
+UID:easter_2031@parenttimereports.github.io
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280529
